@@ -15,7 +15,7 @@
 <h3 align="center"> ⭐ Don't forget to star this repository! ⭐ </h3>
 
 ## ❓ About
-The Plant Leaf Disease Detection project is a machine learning application designed to identify diseases in plant leaves from images. This system uses Convolutional Neural Networks (CNNs) for image classification to detect and classify leaf diseases, aiding in early diagnosis and effective treatment.
+The Plant Leaf Disease Detection System is an AI-driven tool designed to assist in the early detection and diagnosis of plant diseases. This system processes images of plant leaves to identify various diseases, helping farmers take timely actions to mitigate the impact on crops.
 
 ## 📸 Screenshot
 
