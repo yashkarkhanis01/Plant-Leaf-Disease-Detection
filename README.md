@@ -19,7 +19,7 @@ The Plant Leaf Disease Detection project is a machine learning application desig
 
 ## 📸 Screenshot
 
-![Disease Detection](https://github.com/yashkarkhanis01/Plant-Leaf-Disease-Detection/Screenshots/output.gif)
+![Disease Detection](https://github.com/yashkarkhanis01/Plant-Leaf-Disease-Detection/blob/main/Screenshots/output.gif)
 
 ## 🚀 How to Use
 1. **Clone the Repository:**
